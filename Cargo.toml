@@ -2,5 +2,12 @@
 name = "localip"
 version = "0.1.0"
 edition = "2021"
+authors = ["Tarun Regmi <tarunregmi.io@gmail.com>"]
+description = "A simple library to find the local IP address of the machine."
+license = "MIT"
+repository = "https://github.com/tarunregmi/localip"
+keywords = ["networking", "local", "ip", "address"]
+categories = ["network-programming", "utility"]
+readme = "README.md"
 
 [dependencies]
