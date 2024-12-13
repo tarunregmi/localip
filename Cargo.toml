@@ -7,7 +7,7 @@ description = "A simple library to find the local IP address of the machine."
 license = "MIT"
 repository = "https://github.com/tarunregmi/localip"
 keywords = ["networking", "local", "ip", "address"]
-categories = ["network-programming", "utility"]
+categories = ["network-programming"]
 readme = "README.md"
 
 [dependencies]
