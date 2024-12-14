@@ -4,11 +4,10 @@ A lightweight Rust library for discovering the local IP address of your machine.
 
 ## Installation
 
-Add this to your `Cargo.toml`:
+Run this command in your `terminal`:
 
-```toml
-[dependencies]
-localip = "0.1.0"
+```bash
+cargo add localip
 ```
 
 ## Example:
